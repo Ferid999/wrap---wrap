@@ -1,0 +1,9 @@
+.border{
+    margin: auto;
+    border: black solid 1px;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+ 
+}
